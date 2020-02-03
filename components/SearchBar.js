@@ -71,7 +71,7 @@ export default props => {
           <div className="d-inline-block">
             <button
               className="btn btn-link text-theme-primary"
-              onClick={() => goTo("https://tokendatabase.com/register?pk_campaign=news_search_login")}
+              onClick={() => goTo("https://tokendatabase.com/?pk_campaign=news_search_login")}
             >
               Login to TokenDatabase
             </button>
