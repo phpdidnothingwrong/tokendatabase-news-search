@@ -40,6 +40,7 @@ export default ({ article }) => (
 
         &:hover {
           top: -5px;
+          cursor: pointer;
         }
       }
       .article-img {

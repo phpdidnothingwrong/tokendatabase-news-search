@@ -38,7 +38,7 @@ export default () => {
       {!added ? (
         <>
           <p className="text-muted font-weight-light">
-            To get started, <a href="//tokendatabase.com/register" className="text-theme-primary font-weight-normal" target="_blank">sign up for TokenDatabase</a> and paste your API key below
+            To get started, <a href="https://tokendatabase.com/register?pk_campaign=news_search_signup" className="text-theme-primary font-weight-normal" target="_blank">sign up for TokenDatabase</a> and paste your API key below
           </p>
           <div className="row">
             <div className="col-12 col-lg-7">
