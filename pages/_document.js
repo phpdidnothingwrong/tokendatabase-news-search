@@ -13,6 +13,10 @@ class MyDocument extends Document {
           />
           <meta name="msapplication-TileColor" content="#2d89ef" />
           <meta
+            name="description"
+            content="Search aggregated crypto news via TokenDatabase's API."
+          />
+          <meta
             name="msapplication-config"
             content="/favicon/browserconfig.xml"
           />
@@ -25,6 +29,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href={`https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css`}
           />
+          <title>TokenDatabase News Search</title>
         </Head>
         <body>
           <Main />
